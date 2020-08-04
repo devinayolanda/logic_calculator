@@ -1,0 +1,108 @@
+C:\Users\USER\Desktop\Proyek Mat edit\bin\Debug\Proyek Mat.exe
+C:\Users\USER\Desktop\Proyek Mat edit\bin\Debug\Proyek Mat.pdb
+C:\Users\USER\Desktop\Proyek Mat edit\bin\Debug\Proyek Mat.xml
+C:\Users\USER\Desktop\Proyek Mat edit\obj\x86\Debug\Proyek_Mat.Form1.resources
+C:\Users\USER\Desktop\Proyek Mat edit\obj\x86\Debug\Proyek_Mat.Resources.resources
+C:\Users\USER\Desktop\Proyek Mat edit\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Proyek Mat edit\obj\x86\Debug\Proyek Mat.exe
+C:\Users\USER\Desktop\Proyek Mat edit\obj\x86\Debug\Proyek Mat.xml
+C:\Users\USER\Desktop\Proyek Mat edit\obj\x86\Debug\Proyek Mat.pdb
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\obj\x86\Debug\Proyek Mat.exe
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\obj\x86\Debug\Proyek Mat.xml
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\obj\x86\Debug\Proyek Mat.pdb
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\bin\Debug\Proyek Mat.exe
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\bin\Debug\Proyek Mat.pdb
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\bin\Debug\Proyek Mat.xml
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\obj\x86\Debug\Proyek_Mat.Form1.resources
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\obj\x86\Debug\Proyek_Mat.Resources.resources
+C:\Users\USER\Desktop\IT\Sem 2\Proyek Mat\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+D:\Data Mahasiswa\26416006\Proyek Mat\obj\x86\Debug\Proyek Mat.exe
+D:\Data Mahasiswa\26416006\Proyek Mat\obj\x86\Debug\Proyek Mat.xml
+D:\Data Mahasiswa\26416006\Proyek Mat\obj\x86\Debug\Proyek Mat.pdb
+D:\Data Mahasiswa\26416006\Proyek Mat\bin\Debug\Proyek Mat.exe
+D:\Data Mahasiswa\26416006\Proyek Mat\bin\Debug\Proyek Mat.pdb
+D:\Data Mahasiswa\26416006\Proyek Mat\bin\Debug\Proyek Mat.xml
+D:\Data Mahasiswa\26416006\Proyek Mat\obj\x86\Debug\Proyek_Mat.Form1.resources
+D:\Data Mahasiswa\26416006\Proyek Mat\obj\x86\Debug\Proyek_Mat.Resources.resources
+D:\Data Mahasiswa\26416006\Proyek Mat\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+E:\26416042\Proyek Mat\obj\x86\Debug\Proyek Mat.exe
+E:\26416042\Proyek Mat\obj\x86\Debug\Proyek Mat.xml
+E:\26416042\Proyek Mat\obj\x86\Debug\Proyek Mat.pdb
+E:\26416042\Proyek Mat\bin\Debug\Proyek Mat.exe
+E:\26416042\Proyek Mat\bin\Debug\Proyek Mat.pdb
+E:\26416042\Proyek Mat\bin\Debug\Proyek Mat.xml
+E:\26416042\Proyek Mat\obj\x86\Debug\Proyek_Mat.Form1.resources
+E:\26416042\Proyek Mat\obj\x86\Debug\Proyek_Mat.Resources.resources
+E:\26416042\Proyek Mat\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\bin\Debug\Proyek Mat.exe
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\bin\Debug\Proyek Mat.pdb
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\bin\Debug\Proyek Mat.xml
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\obj\x86\Debug\Proyek_Mat.Form1.resources
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\obj\x86\Debug\Proyek_Mat.Resources.resources
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\obj\x86\Debug\Proyek Mat.exe
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\obj\x86\Debug\Proyek Mat.xml
+C:\Users\Public.STUDIO24-PC\Desktop\26416046\Proyek Mat editssssss\obj\x86\Debug\Proyek Mat.pdb
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\obj\x86\Debug\Proyek Mat.exe
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\obj\x86\Debug\Proyek Mat.xml
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\obj\x86\Debug\Proyek Mat.pdb
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\bin\Debug\Proyek Mat.exe
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\bin\Debug\Proyek Mat.pdb
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\bin\Debug\Proyek Mat.xml
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\obj\x86\Debug\Proyek_Mat.Form1.resources
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\obj\x86\Debug\Proyek_Mat.Resources.resources
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.exe
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.xml
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.pdb
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.exe
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.pdb
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.xml
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek_Mat.Form1.resources
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek_Mat.Resources.resources
+D:\Kaka\Sems 2\Proyek Mat Kalkulator\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+F:\ \Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.exe
+F:\ \Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.xml
+F:\ \Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.pdb
+F:\ \Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.exe
+F:\ \Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.pdb
+F:\ \Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.xml
+F:\ \Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek_Mat.Form1.resources
+F:\ \Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek_Mat.Resources.resources
+F:\ \Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+E:\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.exe
+E:\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.xml
+E:\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.pdb
+E:\Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.exe
+E:\Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.pdb
+E:\Proyek Mat edit edit edit FIX\bin\Debug\Proyek Mat.xml
+E:\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek_Mat.Form1.resources
+E:\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek_Mat.Resources.resources
+E:\Proyek Mat edit edit edit FIX\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+E:\proyek mat FIX POL\obj\x86\Debug\Proyek Mat.exe
+E:\proyek mat FIX POL\obj\x86\Debug\Proyek Mat.xml
+E:\proyek mat FIX POL\obj\x86\Debug\Proyek Mat.pdb
+E:\proyek mat FIX POL\bin\Debug\Proyek Mat.exe
+E:\proyek mat FIX POL\bin\Debug\Proyek Mat.pdb
+E:\proyek mat FIX POL\bin\Debug\Proyek Mat.xml
+E:\proyek mat FIX POL\obj\x86\Debug\Proyek_Mat.Form1.resources
+E:\proyek mat FIX POL\obj\x86\Debug\Proyek_Mat.Resources.resources
+E:\proyek mat FIX POL\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\bin\Debug\Proyek Mat.exe
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\bin\Debug\Proyek Mat.pdb
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\bin\Debug\Proyek Mat.xml
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\obj\x86\Debug\Proyek_Mat.Form1.resources
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\obj\x86\Debug\Proyek_Mat.Resources.resources
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\obj\x86\Debug\Proyek Mat.exe
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\obj\x86\Debug\Proyek Mat.xml
+D:\Data Mahasiswa\26416006\proyek mat FIX POL\obj\x86\Debug\Proyek Mat.pdb
+C:\Users\USER\Desktop\Logic Calculator\obj\x86\Debug\Proyek Mat.exe
+C:\Users\USER\Desktop\Logic Calculator\obj\x86\Debug\Proyek Mat.xml
+C:\Users\USER\Desktop\Logic Calculator\obj\x86\Debug\Proyek Mat.pdb
+C:\Users\USER\Desktop\Logic Calculator\bin\Debug\Proyek Mat.exe
+C:\Users\USER\Desktop\Logic Calculator\bin\Debug\Proyek Mat.pdb
+C:\Users\USER\Desktop\Logic Calculator\bin\Debug\Proyek Mat.xml
+C:\Users\USER\Desktop\Logic Calculator\obj\x86\Debug\Proyek_Mat.Form1.resources
+C:\Users\USER\Desktop\Logic Calculator\obj\x86\Debug\Proyek_Mat.Resources.resources
+C:\Users\USER\Desktop\Logic Calculator\obj\x86\Debug\Proyek Mat.vbproj.GenerateResource.Cache
